@@ -1,2 +1,2 @@
-# hello-world
-Só um repositório
+# Olá mundo
+Só um repositório para aprender a mexer no git
